@@ -1,0 +1,67 @@
+.Rating-number {
+	font-size: 30px;
+	margin-left: 30px
+}
+
+.Grey-text{
+	color: #999;
+}
+
+.Row-summary {
+	margin-bottom: 30px
+}
+
+.Number-summary {
+	font-size: 50px;
+	text-align: center;
+	line-height: 0.1;
+	padding-top: 20px
+}
+
+.Borderless {
+	border: none !important;
+}
+
+.Margin-top {
+	margin-top: 30px;
+}
+
+.Availibility-text {
+	margin-top: 20px
+}
+
+.Sidebar-margin-top {
+	margin-top: 15px;
+}
+
+.Price-sidebar {
+	margin-top: 0;
+	padding-top: 0;
+	font-size: 30px;
+	line-height: 1.2;
+	font-weight: bold;
+}
+
+.Button-pricing {
+	margin: 25px 0;
+	padding-bottom: 30px;
+	border-bottom: 1px double #aaa;
+}
+
+.Comment-text {
+	color: #666;
+	font-weight: lighter;
+}
+
+.Comment-view-all {
+	text-align: center !important;
+	font-size: 20px;
+	margin: 0 auto
+}
+
+.Footer-style {
+	margin-top: 30px;
+	color: #333;
+	font-weight: lighter;
+	font-size: 11px;
+}
